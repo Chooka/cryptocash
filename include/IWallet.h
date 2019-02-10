@@ -7,6 +7,9 @@
 #include <limits>
 #include <string>
 #include <vector>
+
+#include <IWalletLegacy.h>
+
 #include "CryptoNote.h"
 
 namespace CryptoNote {
